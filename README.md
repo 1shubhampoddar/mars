@@ -3,7 +3,7 @@
 2. Rahul Bagadia
 
 ## Domain
-E-Commerce
+Online Retail (E-Commerce)
 
 ## Objective
 1. Customer Segmentation
