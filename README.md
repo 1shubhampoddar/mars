@@ -1,7 +1,3 @@
-## Members
-1. Shubham Poddar
-2. Rahul Bagadia
-
 ## Domain
 Online Retail (E-Commerce)
 
